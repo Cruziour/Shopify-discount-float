@@ -8,8 +8,8 @@ This repository contains the full-stack solution for the **Shopify App Developer
 
 *   **Live Deployed Application:** [Render Deployment Link](https://shopify-discount-kn2v.onrender.com/)
 *   **GitHub Repository:** [Cruziour/Shopify-discount-float](https://github.com/Cruziour/Shopify-discount-float)
-*   **Video Demo Link:** (`https://youtu.be/RQeN0nXsifw`)
-*   **Development Store URL:** `https://somany-35d1bnw6.myshopify.com`
+*   **Video Demo Link:** (https://youtu.be/RQeN0nXsifw)
+*   **Development Store URL:** (https://somany-35d1bnw6.myshopify.com)
 *   **Storefront Password:** `stoweu` *(Required to bypass Shopify development store protection)*
 
 ---
